@@ -1,5 +1,5 @@
 {
-    "name": "phpgangsta/googleauthenticator",
+    "name": "likesistemas/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "version": "1.0.0",
     "type": "library",
@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/PHPGangsta/GoogleAuthenticator",
-        "issues": "https://github.com/PHPGangsta/GoogleAuthenticator/issues"
+        "source": "https://github.com/likesistemas/GoogleAuthenticator",
+        "issues": "https://github.com/likesistemas/GoogleAuthenticator/issues"
     },
     "require": {
         "php": ">=5.3"
